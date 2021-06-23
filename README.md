@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
+    <a href="https://leetcode.com/dnhuan/" alt="LeetCode Profile">
+        <img src="http://localhost:3000/badge/dnhuan/Easy" /></a>
+    <a href="https://leetcode.com/dnhuan/" alt="LeetCode Profile">
+        <img src="http://localhost:3000/badge/dnhuan/Medium" /></a>
+    <a href="https://leetcode.com/dnhuan/" alt="LeetCode Profile">
+        <img src="http://localhost:3000/badge/dnhuan/Hard" /></a>
+</p>
+
 <!--
 **dnhuan/dnhuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
