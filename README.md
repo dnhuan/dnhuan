@@ -2,11 +2,11 @@
 
 <p align="center">
     <a href="https://leetcode.com/dnhuan/" alt="LeetCode Profile">
-        <img src="http://localhost:3000/badge/dnhuan/Easy" /></a>
+        <img src="https://0da5f86acb8d.ngrok.io/badge/dnhuan/Easy" /></a>
     <a href="https://leetcode.com/dnhuan/" alt="LeetCode Profile">
-        <img src="http://localhost:3000/badge/dnhuan/Medium" /></a>
+        <img src="https://0da5f86acb8d.ngrok.io/badge/dnhuan/Medium" /></a>
     <a href="https://leetcode.com/dnhuan/" alt="LeetCode Profile">
-        <img src="http://localhost:3000/badge/dnhuan/Hard" /></a>
+        <img src="https://0da5f86acb8d.ngrok.io/badge/dnhuan/Hard" /></a>
 </p>
 
 <!--
